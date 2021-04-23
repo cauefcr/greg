@@ -2,13 +2,12 @@ package main
 
 import (
 	"fmt"
-	"greg"
 	"math"
 	"strings"
 	"time"
 
 	ranges "github.com/activeshadow/libminimega/ranges"
-	"github.com/cauefcr/greg"
+	greg "github.com/cauefcr/greg"
 	"github.com/jessevdk/go-flags"
 	cidr "github.com/nytr0gen/go-cidr"
 )
