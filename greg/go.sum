@@ -4,6 +4,8 @@ github.com/cauefcr/greg v0.0.0-20210423054638-70ba44c641b0 h1:oymbfd5oMAcJpLkb8l
 github.com/cauefcr/greg v0.0.0-20210423054638-70ba44c641b0/go.mod h1:9+9lsMp9s13/y4L+N5bPJfaAZ706o931Rh+G793Qk1g=
 github.com/jessevdk/go-flags v1.5.0 h1:1jKYvbxEjfUl0fmqTCOfonvskHHXMjBySTLW4y9LFvc=
 github.com/jessevdk/go-flags v1.5.0/go.mod h1:Fw0T6WPc1dYxT4mKEZRfG5kJhaTDP9pj1c2EWnYs/m4=
+github.com/knownsec/Minitools-cidrgen v0.0.0-20200821064605-5139576ce9de h1:xQePRUrFxrrMURK27b9NWWURrC3sZJte7vTYVoPjX9k=
+github.com/knownsec/Minitools-cidrgen v0.0.0-20200821064605-5139576ce9de/go.mod h1:KeRVpq+hKppbYeGDLmtpp31BqzRtF+CMw2SmHI//mDg=
 github.com/mattn/go-runewidth v0.0.3/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
 github.com/nytr0gen/go-cidr v0.0.0-20160312202100-fc36d0a3598c h1:Lds6JtUm6kF6ypKIEzrupPxKLsl6zFJTIBU+KCZU9Ws=
 github.com/nytr0gen/go-cidr v0.0.0-20160312202100-fc36d0a3598c/go.mod h1:WIGcVRQppy4GO6ioX7ME8G6tBuL7ciwEMO/g9jl9LkA=
