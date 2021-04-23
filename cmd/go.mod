@@ -1,3 +1,3 @@
-module github.com/cauefcr/greg/cmd/v1
+module github.com/cauefcr/greg/cmd
 
 go 1.16
