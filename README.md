@@ -14,9 +14,15 @@ go install github.com/cauefcr/greg/greg
 ```
 
 # to-do (hack away)
+
 [ ] verbose/non-verbose modes
+
 [ ] adjustable timeout
+
 [ ] file output
+
 [ ] json
+
 [ ] csv
+
 [ ] your cool idea
